@@ -1,0 +1,26 @@
+<RCC>
+    <qresource lang="English" prefix="/Prefics">
+        <file>icons/Open_button.png</file>
+        <file>icons/Save_As_button.png</file>
+        <file>icons/Save_button.png</file>
+        <file>icons/Searching.png</file>
+        <file>icons/Quit_button.png</file>
+        <file>icons/New_button.png</file>
+        <file>icons/Main_icon.png</file>
+        <file>icons/Main_icon.ico</file>
+        <file>icons/Copy.png</file>
+        <file>icons/Cut.png</file>
+        <file>icons/Paste.png</file>
+        <file>icons/Redo.png</file>
+        <file>icons/Replace.png</file>
+        <file>icons/Undo.png</file>
+        <file>icons/Bold.png</file>
+        <file>icons/Centre.png</file>
+        <file>icons/Italic.png</file>
+        <file>icons/Justify.png</file>
+        <file>icons/Left.png</file>
+        <file>icons/Right.png</file>
+        <file>icons/Underline.png</file>
+        <file>icons/Color.png</file>
+    </qresource>
+</RCC>
